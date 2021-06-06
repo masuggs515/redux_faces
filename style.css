@@ -1,0 +1,46 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: lightblue;
+}
+
+h1{
+    border: 3px solid black;
+    padding: 15px;
+    border-radius: 50%;
+}
+
+div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+button{
+    background-color: antiquewhite;
+    border-radius: 10px;
+    padding: 2px 5px;
+    font-size: 20px;
+    margin: 5px;
+}
+
+.sad{
+    background-color: blue;
+}
+
+.shocked{
+    background-color: orange;
+}
+
+.happy{
+    background-color: lightblue;
+}
+
+.laughing{
+    background-color: yellowgreen;
+}
+
+.angry{
+    background-color: darkred;
+}
